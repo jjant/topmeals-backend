@@ -1,0 +1,14 @@
+{
+    "name": "topcalories",
+    "env": {
+        "NODE_ENV": "production",
+        "MONGODB_URI": "mongodb://jjant-toptal:jjant-toptal1@ds151612.mlab.com:51612/topcalories",
+        "SECRET": "secret",
+        "API": "topmeals-backend.now.sh/",
+        "FB_ID": "2065928303417233",
+        "FB_SECRET": "0085232ae66ac4f95d53c3cc39c241b1",
+        "GITHUB_ID": "01c4250391a3a2313eb1",
+        "GITHUB_SECRET": "f16b002f46ce161115b94fa48d888f336a35b66d"
+    },
+    "alias": "topmeals-backend.now.sh"
+}
